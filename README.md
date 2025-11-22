@@ -30,24 +30,23 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 </P>
 
-**About Me**
 
 
+***About Me :-***
 
 
+***1: I'm Sayan & i'm Student of Full-stack development 🎗️.***
 
-***1:I'm Sayan & i'm Student of Full-stack development 🎗️***
+***2: I am learning core programming concepts step-by-step to build a strong foundation 🚀.***
 
+***3: Make Creative web applications, solve problem like puzzel & games 🧑🏼‍💻.***
 
-***2:I am learning core programming concepts step-by-step to build a strong foundation 🚀***
+***4: I focus on improving my problem-solving skills by practicing coding daily ♾️.***
 
-
-
-***2:Make Creative web applications, solve problem like puzzel & games 🧑🏼‍💻***
-
+***5: Thank you for taking the time to view my profile. Your interest truly means a lot 💖.***
 
 -----------------------------------------------------------------------------------------------------
 
 
 
-<div align="left"><a href="" target="_blank" rel="noreferrer"><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"  width="460" height="460"/></a></div>
+<div align="left"><a href="" target="_blank" rel="noreferrer"><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"  width="560" height="560"/></a></div>
