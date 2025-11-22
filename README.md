@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 ***2: I am learning core programming concepts step-by-step to build a strong foundation 🚀.***
 
-***3: Make Creative web applications, solve problem like puzzel & games 🧑🏼‍💻.***
+***3: Make Creative web applications, solve problem like puzzel & games, be a good learner — keep growing, keep improving 👨🏻‍💻.***
 
 ***4: I focus on improving my problem-solving skills by practicing coding daily ♾️.***
 
