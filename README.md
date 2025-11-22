@@ -18,23 +18,36 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel=""><img
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap"  /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f4221ec6-66f0-4d2a-8684-1b42e3e419c3"   width="36" height="36" alt="react" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7b05e30d-1d77-41c3-a593-fc36357669a3" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0f676c52-f834-410c-9b56-c1432bc2bf03" width="36" height="36" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://bun.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4f90d702-2aba-479a-88a0-63c66e0f14ec"   width="36" height="36" alt="bun" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8ae8094a-4ab6-4dd0-9b86-9ee12765d684"   width="36" height="36" alt="Python" /></a>
-<a href="https://www.adobe.com/in/products/photoshop.html#modal-hash" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/15ce3b68-91b9-4ddc-94a6-901d8cc61e72"   width="36" height="36" alt="photo-shop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/26cbc7ba-afe4-45c2-b539-b43d2c19f72d"   width="36" height="36" alt="figma" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/71104383-c4aa-46d7-b8f6-e724e23cb7b3"   width="36" height="36" alt="re" /></a>
+<a href="https://bun.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/40b1db6e-2f3b-4b96-aea2-9a6d401932a6"   width="36" height="36" alt="bun" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4781a133-905e-4023-819c-ec49dbb9a432"   width="36" height="36" alt="Python" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html#modal-hash" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d13c786c-f618-44d0-afe4-f190000781bf"   width="36" height="36" alt="photo-shop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4d56f93a-6fca-4893-8c50-07110dc0c775"   width="36" height="36" alt="figma" /></a>
+
 </P>
 
 **About Me**
 
 
-*1:✌️I'm Sayan i am Student of Full-stack development*
 
------------
+
+
+***1:I'm Sayan & i'm Student of Full-stack development 🎗️***
+
+
+***2:I am learning core programming concepts step-by-step to build a strong foundation 🚀***
+
+
+
+***2:Make Creative web applications, solve problem like puzzel & games 🧑🏼‍💻***
+
+
+-----------------------------------------------------------------------------------------------------
+
 
 
 <div align="left"><a href="" target="_blank" rel="noreferrer"><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"  width="460" height="460"/></a></div>
