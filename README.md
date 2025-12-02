@@ -1,4 +1,4 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayan Singha Chowdhury.
+Hi 🐸 My name is Sayan Singha Chowdhury.
 ==============================================================================================================================================
 
 
@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 
 
-***About Me :-***
+***About Me :-***  
 
 
 ***1: I'm Sayan & i'm Student of Full-stack development 🎗️.***
