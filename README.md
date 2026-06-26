@@ -23,6 +23,5 @@ Hi, I'm Sayan 👋<br>I’m a 19-year-old student developer passionate about bui
 ![](https://github-contributor-stats.vercel.app/api?username=Sayan-Singha-Chowdhury&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sayan-Singha-Chowdhury&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
